@@ -1,0 +1,9 @@
+pyperclip==1.8.2
+
+This file specifies the pyperclip library and its version (1.8.2) 
+as a requirement for your program. You can create this file manually 
+and include it in your GitHub repository along with your Python script. 
+Users can then use this file to install the required dependencies using 
+tools like pip by running:
+
+pip install -r Requirements.txt
